@@ -37,6 +37,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
+    'sphinx_markdown_builder',
     'sphinx_copybutton'
 ]
 html_show_relations = False
